@@ -14,3 +14,4 @@ zingnews.vn###adtima-bg
 zingnews.vn###site-header
 thanhnien.vn###ss-content-container
 zingnews.vn###bg-adtima
+zingnews.vn##.adtima-bg
