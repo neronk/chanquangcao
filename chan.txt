@@ -12,6 +12,8 @@ bilutv.co##div.container > div > .abp-header
 vlxx.sex##center
 zingnews.vn###site-header
 thanhnien.vn###ss-content-container
+zingnews.vn/*##.adtima-bg
+zingnews.vn/*##.bg-adtima
 ||adtima-media.zascdn.me^
 ||adtima-static.zadn.vn^$script
 ||adtima-static.zascdn.me^
