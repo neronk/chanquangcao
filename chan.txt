@@ -7,8 +7,6 @@ dtruyen.com##.wt-ads2
 dtruyen.com##.div.wt-ads2:nth-of-type(4)
 dtruyen.com##.div.wt-ads2:nth-of-type(6)
 dtruyen.com##div[class="wt-ads2"]
-bilutv.co##div.container:nth-of-type(6)
-bilutv.co##div.container > div > .abp-header
 vlxx.sex##center
 zingnews.vn###site-header
 thanhnien.vn###ss-content-container
@@ -20,3 +18,5 @@ zingnews.vn/*##.bg-adtima
 ||adtima.vn^$script,third-party
 ||adtimaserver.vn^
 bylutv.com##.abp-ballon
+bylutv.com##div.container:nth-of-type(6)
+bylutv.com##div.container > div > .abp-header
