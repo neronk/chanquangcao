@@ -19,3 +19,4 @@ zingnews.vn/*##.bg-adtima
 ||adtima-static.zascdn.me^
 ||adtima.vn^$script,third-party
 ||adtimaserver.vn^
+bylutv.com##.abp-ballon
