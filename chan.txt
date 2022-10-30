@@ -20,3 +20,5 @@ zingnews.vn/*##.bg-adtima
 bylutv.com##.abp-ballon
 bylutv.com##div.container:nth-of-type(6)
 bylutv.com##div.container > div > .abp-header
+fimfast.co##.popUpBannerBox
+truyenfull.vn##.shoppe_ads_fly
