@@ -23,3 +23,5 @@ bylutv.com##div.container > div > .abp-header
 fimfast.co##.popUpBannerBox
 truyenfull.vn##.shoppe_ads_fly
 truyenchu.vn##.notranslate
+truyenchu.vn/frontend/js/analytics.js
+vyfrxuytzn.com/lv/esnk/1937417/code.js
