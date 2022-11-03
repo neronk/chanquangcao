@@ -27,3 +27,4 @@ truyenchu.vn/frontend/js/analytics.js
 vyfrxuytzn.com/lv/esnk/1937417/code.js
 player.gliacloud.com/player/svt_truyenchu_desktop
 bilutv2.net##.abp-ballon
+bilutv2.net##.abp-header
