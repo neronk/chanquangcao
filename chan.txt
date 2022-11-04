@@ -28,3 +28,6 @@ vyfrxuytzn.com/lv/esnk/1937417/code.js
 player.gliacloud.com/player/svt_truyenchu_desktop
 bilutv2.net##.abp-ballon
 bilutv2.net##.abp-header
+phimdacap.com##body > div > center
+truyenfull.vn##.ads-mobile
+truyenfull.vn##.ads-responsive ads-mobile
