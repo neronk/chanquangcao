@@ -31,7 +31,6 @@ bilutv2.net##.abp-header
 phimdacap.com##body > div > center
 truyenfull.vn##.ads-mobile
 truyenfull.vn##.ads-responsive ads-mobile
-truyenfull.vn##.ads-chapter-box
 truyenfull.vn##.chapter-nav
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
