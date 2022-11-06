@@ -35,3 +35,4 @@ truyenfull.vn##.ads-chapter-box
 truyenfull.vn##.chapter-nav
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
+z,phimsexsub.co##.container site-footer
