@@ -30,8 +30,11 @@ bilutv2.net##.abp-ballon
 bilutv2.net##.abp-header
 phimdacap.com##body > div > center
 truyenfull.vn##.ads-mobile
+truyenfull.vn##.ads-top
+truyenfull.vn##.ads-content
+truyenfull.vn##.ads-chapter-google-bottom
 truyenfull.vn##.ads-responsive ads-mobile
-truyenfull.vn##.chapter-nav
+truyenfull.vn##.ads-network ads-desktop
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
 z.phimsexsub.co##.container site-footer
