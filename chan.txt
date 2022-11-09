@@ -52,3 +52,4 @@ sextop1.club##body > center
 vlxx.tv##div > ads
 vlxx.tv##.ads
 vlxx.tv/*##.ads
+vlxx.tv###ads
