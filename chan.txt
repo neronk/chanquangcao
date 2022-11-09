@@ -41,6 +41,7 @@ truyenfull.vn/*##.ads-content
 truyenfull.vn/*##.ads-chapter-google-bottom
 truyenfull.vn/*##.ads-responsive ads-mobile
 truyenfull.vn/*##.ads-network ads-desktop
+truyenfull.vn##div[style="display: flex"]
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
 z.phimsexsub.co##.container site-footer
