@@ -35,6 +35,12 @@ truyenfull.vn##.ads-content
 truyenfull.vn##.ads-chapter-google-bottom
 truyenfull.vn##.ads-responsive ads-mobile
 truyenfull.vn##.ads-network ads-desktop
+truyenfull.vn/*##.ads-mobile
+truyenfull.vn/*##.ads-top
+truyenfull.vn/*##.ads-content
+truyenfull.vn/*##.ads-chapter-google-bottom
+truyenfull.vn/*##.ads-responsive ads-mobile
+truyenfull.vn/*##.ads-network ads-desktop
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
 z.phimsexsub.co##.container site-footer
@@ -43,3 +49,6 @@ sextop1.club##.lusterthemes
 sextop1.club###divExoLayerWrapper
 sextop1.club##body > center
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
+vlxx.tv##div > ads
+vlxx.tv##.ads
+vlxx.tv/*##.ads
