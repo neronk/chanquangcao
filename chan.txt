@@ -46,6 +46,7 @@ truyenfull.vn###mys-content
 truyenfull.vn###mys-wrapper
 truyenfull.vn##div[style="width:1140px;height:280px;"]
 truyenfull.vn##div[style="display: flex"]
+truyenfull.vn##.group_story text-center
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
 z.phimsexsub.co##.container site-footer
