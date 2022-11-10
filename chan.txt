@@ -51,7 +51,7 @@ truyenfull.vn##div[style="width:1140px;height:280px;"]
 truyenfull.vn##div[style="display: flex"]
 truyenfull.vn##.group_story text-center
 truyenfull.vn##div[id^="mys-content"]
-truyenfull.vn##div[id^="mys-content"]
+truyenfull.vn##div[id^="mys-wrapper"]
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
 z.phimsexsub.co##.container site-footer
@@ -65,3 +65,4 @@ vlxx.tv##div > ads
 vlxx.tv##.ads
 vlxx.tv/*##.ads
 vlxx.tv###ads
+vlxx.tv##div[id^="ads"]
