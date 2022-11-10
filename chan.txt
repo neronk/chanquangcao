@@ -23,9 +23,6 @@ bylutv.com##div.container > div > .abp-header
 fimfast.co##.popUpBannerBox
 truyenfull.vn##.shoppe_ads_fly
 truyenchu.vn##.notranslate
-truyenchu.vn/frontend/js/analytics.js
-vyfrxuytzn.com/lv/esnk/1937417/code.js
-player.gliacloud.com/player/svt_truyenchu_desktop
 bilutv2.net##.abp-ballon
 bilutv2.net##.abp-header
 phimdacap.com##body > div > center
@@ -53,11 +50,14 @@ truyenfull.vn###mys-wrapper
 truyenfull.vn##div[style="width:1140px;height:280px;"]
 truyenfull.vn##div[style="display: flex"]
 truyenfull.vn##.group_story text-center
+truyenfull.vn##div[id^="mys-content"]
+truyenfull.vn##div[id^="mys-content"]
 z.phimsexsub.co##.clipxx
 z.phimsexsub.co##.b320
 z.phimsexsub.co##.container site-footer
 z.phimsexsub.co##.site-footer.container
 sextop1.club##.lusterthemes
+sextop1.club##div[id^="ExoLayerWrapper"]
 sextop1.club###divExoLayerWrapper
 sextop1.club##body > center
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
