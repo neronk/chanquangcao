@@ -66,3 +66,5 @@ vlxx.tv##.ads
 vlxx.tv/*##.ads
 vlxx.tv###ads
 vlxx.tv##div[id^="ads"]
+xoilac9.org###app-web > .ft-box
+xoilac9.org###div[id^="modalasd"]
